@@ -1,1 +1,1 @@
-console.log("nwcgy")
+console.log("ritcu")
